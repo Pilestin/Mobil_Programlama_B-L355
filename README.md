@@ -1,6 +1,7 @@
 
 # Mobil Programlama (BİL355)
 3.sınıf Güz dönemi seçmeli Mobil Programlama dersinde yapılanları içerir.
+Derste Flutter üzerinden Mobil Programlama işlenmiştir. 
 
 Notlara ve Ödevlere Notion üzerinden ulaşmak için -> [Notion](https://dawn-squash-710.notion.site/Mobil-Programlama-b86c381d96594cac997e583612efd6a4)
 
