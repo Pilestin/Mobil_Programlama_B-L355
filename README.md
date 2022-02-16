@@ -4,11 +4,11 @@
 Derste Flutter üzerinden Mobil Programlama işlenmiştir. 
 
 ---
-Notlara ve Ödevlere Notion üzerinden ulaşmak için -> [Notion ![Screenshot_1](https://user-images.githubusercontent.com/56133248/154279327-2678ca0b-92c9-47d7-a1b9-ace7c0afa74c.png)](https://dawn-squash-710.notion.site/Mobil-Programlama-b86c381d96594cac997e583612efd6a4)
+Notlara ve Ödevlere Notion üzerinden ulaşmak için -> [Notion ![image](https://user-images.githubusercontent.com/56133248/154279509-89a5e8dc-7d66-46fe-b2e2-935440272b63.png)](https://dawn-squash-710.notion.site/Mobil-Programlama-b86c381d96594cac997e583612efd6a4)
 
 ---
 
-![image](https://user-images.githubusercontent.com/56133248/154278725-855dc54d-2987-4677-86c3-c9f5adaaa273.png)
+
 
 
 
